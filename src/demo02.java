@@ -26,6 +26,7 @@ public class demo02 {
         System.out.println("fix");
         System.out.println("master");
         System.out.println("fix2");
+        System.out.println("push test");
     }
 
 
