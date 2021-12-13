@@ -25,6 +25,7 @@ public class demo02 {
         int bb = 1;
         System.out.println("fix");
         System.out.println("master");
+        System.out.println("fix2");
     }
 
 
