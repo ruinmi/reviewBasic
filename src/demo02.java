@@ -22,6 +22,7 @@ public class demo02 {
         long b = System.currentTimeMillis();
 
         System.out.println(b - a);
+        int bb = 1;
     }
 
 
